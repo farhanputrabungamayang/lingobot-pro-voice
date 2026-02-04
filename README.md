@@ -26,7 +26,7 @@ Lupakan mengetik! Cukup bicara, dan AI akan mendengarkan, mengoreksi grammar, da
 
 1.  **Clone Repository:**
     ```bash
-    git clone [https://github.com/USERNAME/lingobot-pro-voice.git](https://github.com/USERNAME/lingobot-pro-voice.git)
+    git clone [https://githfarhanputrabungamayang/lingobot-pro-voice.git](https://github.com/farhanputrabungamayang/lingobot-pro-voice.git)
     ```
 2.  **Install Requirements:**
     ```bash
@@ -40,4 +40,4 @@ Lupakan mengetik! Cukup bicara, dan AI akan mendengarkan, mengoreksi grammar, da
     ```
 
 ---
-Dibuat dengan ❤️ oleh [Nama Masbro]
+Dibuat dengan ❤️ oleh Farhan
